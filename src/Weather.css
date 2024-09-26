@@ -1,0 +1,99 @@
+@media(max-width:500px){
+.nav .form-text{
+    padding-right: 50px;
+}
+.nav .nav{
+    padding-left: 23px;
+    margin-bottom:150px ;
+    
+}
+.wrapper .city{
+    font-size: 20px;
+    font-weight: bold;
+} 
+.wrapper .city-humid{
+margin-left: 18px;
+}
+.temp-icon .temp{
+    font-size: 55px;
+    font-weight: bold;
+}
+.weather .temp-icon{
+    position: relative;
+    bottom: 155px;
+}
+.wrapper .time-wind{
+    margin-right: 17px;
+    
+}
+.weatherWrapper .wrapper{
+    font-size: 10px;
+    position: relative;
+    bottom: 140px;
+    
+}
+.weather .weatherWrapper{
+    position: relative;
+    bottom: 100px;
+}
+
+}
+
+
+
+
+
+
+
+.city{
+    font-size: 30px;
+    margin-top: 60px;
+}
+
+.city-humid{
+    margin-right: 200px;
+}
+
+.heading{
+    font-style: italic;
+    
+}
+
+.icon{
+    position: relative;
+    top: 60px;
+    
+}
+
+.temp{
+    font-size: 65px;
+    margin-top: 62px;
+    
+}
+
+.temp-icon{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+
+.time-wind{
+    margin-top: 88px;
+   
+}
+
+.weatherWrapper{
+    position: relative;
+    bottom: 50px;
+    font-size: 15px;
+    
+
+    
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+
+}
